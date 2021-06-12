@@ -1,1 +1,3 @@
-# GL4_Projet_Architectures_Logicielles
+# Groot App
+
+Run : yarn start
