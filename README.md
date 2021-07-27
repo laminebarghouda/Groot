@@ -10,9 +10,10 @@ Many houseplants die off every day for the following reasons:
 The product we offer is a mobile application. It allows users to add their plants to the app and get notified when it's time to water, fertilize, spray, clean and re-pump. preferred by plants.
 
 # Adding Plant UI Example
-<img align="center" src="Add Plant.png" width="200" >
+<p align="center">
+  <img align="center" src="Add Plant.png" width="300">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
